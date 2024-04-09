@@ -1,2 +1,2 @@
-# SupermarketSweep
+# Supermarket Sweep
 Optimization
